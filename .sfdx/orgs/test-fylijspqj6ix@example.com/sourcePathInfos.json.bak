@@ -1,0 +1,182 @@
+[
+    [
+        "C:\\Users\\skand\\contactproj\\force-app",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522953810323,
+            "changeTime": 1522953810323,
+            "contentHash": "b28b7af69320201d1cf206ebf28373980add1451",
+            "isWorkspace": false,
+            "isArtifactRoot": true
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522953810324,
+            "changeTime": 1522953810324,
+            "contentHash": "7505d64a54e061b7acd54ccd58b49dc43500b635",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522954341444,
+            "changeTime": 1522954341444,
+            "contentHash": "78dd78c06e81fd7afb457ecdb5af8fae5546e0a3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522954341466,
+            "changeTime": 1522954341466,
+            "contentHash": "dc570189c488cf26078214479566afa761e64eb3",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522954341477,
+            "changeTime": 1522954341477,
+            "contentHash": "398f07a8f56ed843eae43c3d7ea0990443aae5ef",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 829,
+            "modifiedTime": 1522954341475,
+            "changeTime": 1522954341475,
+            "contentHash": "a15c17e72eab1b7e32dbc7e707bd328fd205c24d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList\\MyContactList.cmp-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 228,
+            "modifiedTime": 1522954341470,
+            "changeTime": 1522954341470,
+            "contentHash": "4e03f0f0052e52e2d53bf1c3c7212f91e7206772",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\aura\\MyContactList\\MyContactListController.js",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 605,
+            "modifiedTime": 1522954341481,
+            "changeTime": 1522954341481,
+            "contentHash": "4832a0599ff8f855a5d4a19e31bdfa6911c9057d",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\classes",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\classes",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522954341452,
+            "changeTime": 1522954341452,
+            "contentHash": "a1ec3b1a901b81a519a05663bb5a5f1e2824fa60",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\classes\\MyContactListController.cls",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\classes\\MyContactListController.cls",
+            "isDirectory": false,
+            "isMetadataFile": false,
+            "size": 239,
+            "modifiedTime": 1522954341455,
+            "changeTime": 1522954341455,
+            "contentHash": "05bd5f231a886a2a2444f8e21837245c6a4d8a1c",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj\\force-app\\main\\default\\classes\\MyContactListController.cls-meta.xml",
+            "isDirectory": false,
+            "isMetadataFile": true,
+            "size": 174,
+            "modifiedTime": 1522954341449,
+            "changeTime": 1522954341449,
+            "contentHash": "5690448073e1f4fad2748afd55cc064a162b59a5",
+            "isWorkspace": false,
+            "isArtifactRoot": false
+        }
+    ],
+    [
+        "C:\\Users\\skand\\contactproj",
+        {
+            "state": "n",
+            "sourcePath": "C:\\Users\\skand\\contactproj",
+            "isDirectory": true,
+            "isMetadataFile": false,
+            "size": 0,
+            "modifiedTime": 1522953923981,
+            "changeTime": 1522953923981,
+            "contentHash": "92ca9faf268bdc3bc4fdfed474395961a41825c6",
+            "isWorkspace": true,
+            "isArtifactRoot": false
+        }
+    ]
+]
